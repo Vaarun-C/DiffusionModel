@@ -154,11 +154,3 @@ safety_config = {
     "toxicity_threshold": 0.7    # Adjust sensitivity
 }
 ```
-
-## 📈 Monitoring
-
-### Performance Metrics
-- Generation time per image
-- Cache hit/miss ratios  
-- GPU utilization
-- Memory usage patterns
